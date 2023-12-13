@@ -1,0 +1,13 @@
+#sh_h2{
+    display: none;
+}
+
+.ques{
+    background-color: orange;
+    padding: 50px 20px;   
+}
+.ans{
+    background-color: yellow;
+    padding: 50px 20px;
+    display: none;
+}
